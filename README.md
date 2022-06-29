@@ -64,7 +64,7 @@ Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
 - Legecy Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/athraghora/MusicPlayer
 $ cd MusicPlayer
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
